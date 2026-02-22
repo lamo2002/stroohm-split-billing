@@ -45,22 +45,22 @@
 
 ---
 
-## Slide 4: Key Considerations
-**Needs & challenges grid**
+## Slide 4: Requirements
+**Fleet Manager & Driver needs grid**
 
-*"Fleet charging costs are unpredictable — and today, you face a painful trade-off.*
+*"This slide shows what matters to both sides — let me add some context.*
 
-*On one side: you could block expensive charging. But that frustrates drivers, creates operational overhead, and doesn't scale.*
+*For fleet managers, the core issue is simple: today, you're writing a blank check. A driver can charge 500 kWh at premium rates and you pay it all. Finance hates that. They want a number they can budget against — not a variable that swings 30% month to month.*
 
-*On the other side: you allow all charging. But then costs are unpredictable, budgets overrun, and finance asks questions you can't easily answer.*
+*But here's the thing: if you solve it the wrong way, you create a driver problem. Imagine a driver on a delivery route, battery at 15%, and the only nearby charger is blocked because it's 10 cents over threshold. That's not a policy issue anymore — that's an operational crisis.*
 
-*What's needed is cost control without restricting drivers. Set limits, keep the charging experience seamless.*
+*Or worse: a driver gets a surprise deduction on their payslip because the rules were too complex to understand. Now you've got an HR issue and a trust problem.*
 
-*That's what split billing solves — and getting it right matters. Done poorly, mid-route blocking frustrates drivers. Unexpected deductions create HR issues. Confusing rules undermine trust.*
+*The challenge is finding the balance — give fleet managers the control they need, without breaking the experience for drivers.*
 
-*We've thought carefully about these challenges."*
+*That's the lens we used to evaluate every option."*
 
-**Duration:** ~50 seconds
+**Duration:** ~60 seconds
 
 ---
 
